@@ -22,8 +22,6 @@ The purpose of this project is to explore Prosper's loan data as an exercise in 
 
 
 ## Project Key Insights
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modeling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
-
 Prosper's loan dataset was filled a large amount of data points. It was important to select and filter for a few variables to get, at first, a general understanding of the dataset before deploying more detailed analytical techniques. Overall, there were many commonalities across all borrowers despite different credit and financial characteristics. Some one the key takeaways were the following:
 
 * In summary, we can say that Prosper borrowers, usually, have less than great credit ratings, reside in a handful of states across the United States, and are typically employed overall. The two most frequent areas of work borrowers work in are occupations categorized as other or professional.
